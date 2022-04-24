@@ -1,0 +1,3 @@
+[submodule "MyRecipeAppFrontend"]
+	path = MyRecipeAppFrontend
+	url = git@github.com:amythshekhar/MyRecipeAppFrontend.git
